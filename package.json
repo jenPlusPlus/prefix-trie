@@ -1,0 +1,29 @@
+{
+  "name": "@jenwoodson/autocomplete",
+  "version": "1.0.0",
+  "description": "Prefix Trie",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenPlusPlus/prefix-trie.git"
+  },
+  "keywords": [
+    "autocomplete"
+  ],
+  "author": "jenwoodson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jenPlusPlus/prefix-trie/issues"
+  },
+  "homepage": "https://github.com/jenPlusPlus/prefix-trie#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.0"
+  }
+}
